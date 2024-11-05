@@ -1,0 +1,12 @@
+/*
+Theme Name: Hello Elementor Child
+Theme URI: https://helloelementor.com
+Description: Hello Elementor Child Theme
+Author: Errol Mark DL. Tudio
+Template: hello-elementor
+Version: 1.0.0
+Text Domain: hello-elementor-child
+*/
+
+/**Import  Hello Elemetor parent style*/
+@import url("../hello-elementor/style.css");
